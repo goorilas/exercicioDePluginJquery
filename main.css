@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+header{
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: underline;
+    color: #1e2c43;
+    font-size: x-large;
+    background-color: rgb(115, 161, 202);
+    padding: 16px;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(64, 94, 137);
+    max-width: 100%;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+    margin-top: 8px;
+}
+
+.form-campo label{
+    font-weight: bold;
+    display: block;
+    margin-left: 35%;
+}
+
+.form-campo input{
+    width: 30%;
+    display: block;
+    padding: 8px;
+    margin-left: 35%;
+}
+
+button{
+    margin: auto;
+    width: 25%;
+    padding: 10px 0;
+    margin-top: 8px;
+    display: block;
+    align-items: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+    background-color: rgb(141, 141, 208);
+}
